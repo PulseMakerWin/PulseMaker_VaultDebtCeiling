@@ -24,7 +24,6 @@ This tool analyzes MakerDAO vaults on PulseChain, providing detailed information
 
 ## Usage
 
-
 Run the script with:
 
 ```
